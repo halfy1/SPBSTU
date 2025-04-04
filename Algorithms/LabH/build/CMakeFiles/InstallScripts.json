@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/halfy/projects/SPBSTU/Algorithms/LabH/build/cmake_install.cmake",
+		"C:/Users/halfy/projects/SPBSTU/Algorithms/LabH/build/googletest/cmake_install.cmake",
+		"C:/Users/halfy/projects/SPBSTU/Algorithms/LabH/build/googletest/googlemock/cmake_install.cmake",
+		"C:/Users/halfy/projects/SPBSTU/Algorithms/LabH/build/googletest/googletest/cmake_install.cmake",
+		"C:/Users/halfy/projects/SPBSTU/Algorithms/LabH/build/test/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

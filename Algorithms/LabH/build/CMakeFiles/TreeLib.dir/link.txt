@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc libTreeLib.a CMakeFiles/TreeLib.dir/avl_tree.cpp.obj CMakeFiles/TreeLib.dir/bst_tree.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe libTreeLib.a

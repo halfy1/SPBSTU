@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc libExample.a CMakeFiles/Example.dir/avl_tree.cpp.obj CMakeFiles/Example.dir/bst_tree.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe libExample.a
