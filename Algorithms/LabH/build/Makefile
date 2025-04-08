@@ -248,53 +248,53 @@ TreeTests/fast:
 	$(MAKE) $(MAKESILENT) -f test\CMakeFiles\TreeTests.dir\build.make test/CMakeFiles/TreeTests.dir/build
 .PHONY : TreeTests/fast
 
-avl_tree.obj: avl_tree.cpp.obj
+avl_tree.obj: avl_tree.c.obj
 .PHONY : avl_tree.obj
 
 # target to build an object file
-avl_tree.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TreeLib.dir\build.make CMakeFiles/TreeLib.dir/avl_tree.cpp.obj
-.PHONY : avl_tree.cpp.obj
+avl_tree.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TreeLib.dir\build.make CMakeFiles/TreeLib.dir/avl_tree.c.obj
+.PHONY : avl_tree.c.obj
 
-avl_tree.i: avl_tree.cpp.i
+avl_tree.i: avl_tree.c.i
 .PHONY : avl_tree.i
 
 # target to preprocess a source file
-avl_tree.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TreeLib.dir\build.make CMakeFiles/TreeLib.dir/avl_tree.cpp.i
-.PHONY : avl_tree.cpp.i
+avl_tree.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TreeLib.dir\build.make CMakeFiles/TreeLib.dir/avl_tree.c.i
+.PHONY : avl_tree.c.i
 
-avl_tree.s: avl_tree.cpp.s
+avl_tree.s: avl_tree.c.s
 .PHONY : avl_tree.s
 
 # target to generate assembly for a file
-avl_tree.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TreeLib.dir\build.make CMakeFiles/TreeLib.dir/avl_tree.cpp.s
-.PHONY : avl_tree.cpp.s
+avl_tree.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TreeLib.dir\build.make CMakeFiles/TreeLib.dir/avl_tree.c.s
+.PHONY : avl_tree.c.s
 
-bst_tree.obj: bst_tree.cpp.obj
+bst_tree.obj: bst_tree.c.obj
 .PHONY : bst_tree.obj
 
 # target to build an object file
-bst_tree.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TreeLib.dir\build.make CMakeFiles/TreeLib.dir/bst_tree.cpp.obj
-.PHONY : bst_tree.cpp.obj
+bst_tree.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TreeLib.dir\build.make CMakeFiles/TreeLib.dir/bst_tree.c.obj
+.PHONY : bst_tree.c.obj
 
-bst_tree.i: bst_tree.cpp.i
+bst_tree.i: bst_tree.c.i
 .PHONY : bst_tree.i
 
 # target to preprocess a source file
-bst_tree.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TreeLib.dir\build.make CMakeFiles/TreeLib.dir/bst_tree.cpp.i
-.PHONY : bst_tree.cpp.i
+bst_tree.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TreeLib.dir\build.make CMakeFiles/TreeLib.dir/bst_tree.c.i
+.PHONY : bst_tree.c.i
 
-bst_tree.s: bst_tree.cpp.s
+bst_tree.s: bst_tree.c.s
 .PHONY : bst_tree.s
 
 # target to generate assembly for a file
-bst_tree.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TreeLib.dir\build.make CMakeFiles/TreeLib.dir/bst_tree.cpp.s
-.PHONY : bst_tree.cpp.s
+bst_tree.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TreeLib.dir\build.make CMakeFiles/TreeLib.dir/bst_tree.c.s
+.PHONY : bst_tree.c.s
 
 # Help Target
 help:

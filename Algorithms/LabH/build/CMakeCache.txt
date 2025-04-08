@@ -14,15 +14,6 @@
 # EXTERNAL cache entries
 ########################
 
-//Value Computed by CMake
-$(This)_BINARY_DIR:STATIC=C:/Users/halfy/projects/SPBSTU/Algorithms/LabH/build
-
-//Value Computed by CMake
-$(This)_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-$(This)_SOURCE_DIR:STATIC=C:/Users/halfy/projects/SPBSTU/Algorithms/LabH
-
 //Builds the googlemock subproject
 BUILD_GMOCK:BOOL=ON
 
@@ -160,7 +151,7 @@ CMAKE_INSTALL_MANDIR:PATH=
 CMAKE_INSTALL_OLDINCLUDEDIR:PATH=/usr/include
 
 //Install path prefix, prepended onto install directories.
-CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/$(This)
+CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/TreeProject
 
 //Run-time variable data (LOCALSTATEDIR/run)
 CMAKE_INSTALL_RUNSTATEDIR:PATH=
@@ -316,15 +307,6 @@ CMAKE_TAPI:FILEPATH=CMAKE_TAPI-NOTFOUND
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
-//Value Computed by CMake
-Example_BINARY_DIR:STATIC=C:/Users/halfy/projects/SPBSTU/Algorithms/LabH/build
-
-//Value Computed by CMake
-Example_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-Example_SOURCE_DIR:STATIC=C:/Users/halfy/projects/SPBSTU/Algorithms/LabH
-
 //Use Abseil and RE2. Requires Abseil and RE2 to be separately
 // added to the build.
 GTEST_HAS_ABSL:BOOL=OFF
@@ -383,7 +365,7 @@ gtest_disable_pthreads:BOOL=OFF
 
 //Use shared (DLL) run-time lib even when Google Test is built
 // as static lib.
-gtest_force_shared_crt:BOOL=ON
+gtest_force_shared_crt:BOOL=OFF
 
 //Build gtest with internal symbols hidden in shared libraries.
 gtest_hide_internal_symbols:BOOL=OFF
@@ -592,7 +574,7 @@ _CMAKE_C_LINKER_PUSHPOP_STATE_SUPPORTED:INTERNAL=TRUE
 //linker supports push/pop state
 _CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED:INTERNAL=TRUE
 //CMAKE_INSTALL_PREFIX during last run
-_GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX:INTERNAL=C:/Program Files (x86)/$(This)
+_GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX:INTERNAL=C:/Program Files (x86)/TreeProject
 cmake_package_name:INTERNAL=GTest
 generated_dir:INTERNAL=C:/Users/halfy/projects/SPBSTU/Algorithms/LabH/build/googletest/googletest/generated
 //ADVANCED property for variable: gmock_build_tests

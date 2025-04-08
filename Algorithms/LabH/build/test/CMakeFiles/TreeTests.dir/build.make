@@ -95,8 +95,9 @@ TreeTests_EXTERNAL_OBJECTS =
 
 test/TreeTests.exe: test/CMakeFiles/TreeTests.dir/TreeTests.cpp.obj
 test/TreeTests.exe: test/CMakeFiles/TreeTests.dir/build.make
-test/TreeTests.exe: lib/libgtest_main.a
 test/TreeTests.exe: libTreeLib.a
+test/TreeTests.exe: lib/libgtest.a
+test/TreeTests.exe: lib/libgmock.a
 test/TreeTests.exe: lib/libgtest.a
 test/TreeTests.exe: test/CMakeFiles/TreeTests.dir/linkLibs.rsp
 test/TreeTests.exe: test/CMakeFiles/TreeTests.dir/objects1.rsp

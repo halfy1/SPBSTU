@@ -71,47 +71,47 @@ include CMakeFiles/TreeLib.dir/flags.make
 CMakeFiles/TreeLib.dir/codegen:
 .PHONY : CMakeFiles/TreeLib.dir/codegen
 
-CMakeFiles/TreeLib.dir/avl_tree.cpp.obj: CMakeFiles/TreeLib.dir/flags.make
-CMakeFiles/TreeLib.dir/avl_tree.cpp.obj: C:/Users/halfy/projects/SPBSTU/Algorithms/LabH/avl_tree.cpp
-CMakeFiles/TreeLib.dir/avl_tree.cpp.obj: CMakeFiles/TreeLib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\halfy\projects\SPBSTU\Algorithms\LabH\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/TreeLib.dir/avl_tree.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TreeLib.dir/avl_tree.cpp.obj -MF CMakeFiles\TreeLib.dir\avl_tree.cpp.obj.d -o CMakeFiles\TreeLib.dir\avl_tree.cpp.obj -c C:\Users\halfy\projects\SPBSTU\Algorithms\LabH\avl_tree.cpp
+CMakeFiles/TreeLib.dir/avl_tree.c.obj: CMakeFiles/TreeLib.dir/flags.make
+CMakeFiles/TreeLib.dir/avl_tree.c.obj: C:/Users/halfy/projects/SPBSTU/Algorithms/LabH/avl_tree.c
+CMakeFiles/TreeLib.dir/avl_tree.c.obj: CMakeFiles/TreeLib.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\halfy\projects\SPBSTU\Algorithms\LabH\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/TreeLib.dir/avl_tree.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/TreeLib.dir/avl_tree.c.obj -MF CMakeFiles\TreeLib.dir\avl_tree.c.obj.d -o CMakeFiles\TreeLib.dir\avl_tree.c.obj -c C:\Users\halfy\projects\SPBSTU\Algorithms\LabH\avl_tree.c
 
-CMakeFiles/TreeLib.dir/avl_tree.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/TreeLib.dir/avl_tree.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\halfy\projects\SPBSTU\Algorithms\LabH\avl_tree.cpp > CMakeFiles\TreeLib.dir\avl_tree.cpp.i
+CMakeFiles/TreeLib.dir/avl_tree.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/TreeLib.dir/avl_tree.c.i"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\halfy\projects\SPBSTU\Algorithms\LabH\avl_tree.c > CMakeFiles\TreeLib.dir\avl_tree.c.i
 
-CMakeFiles/TreeLib.dir/avl_tree.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TreeLib.dir/avl_tree.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\halfy\projects\SPBSTU\Algorithms\LabH\avl_tree.cpp -o CMakeFiles\TreeLib.dir\avl_tree.cpp.s
+CMakeFiles/TreeLib.dir/avl_tree.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/TreeLib.dir/avl_tree.c.s"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\halfy\projects\SPBSTU\Algorithms\LabH\avl_tree.c -o CMakeFiles\TreeLib.dir\avl_tree.c.s
 
-CMakeFiles/TreeLib.dir/bst_tree.cpp.obj: CMakeFiles/TreeLib.dir/flags.make
-CMakeFiles/TreeLib.dir/bst_tree.cpp.obj: C:/Users/halfy/projects/SPBSTU/Algorithms/LabH/bst_tree.cpp
-CMakeFiles/TreeLib.dir/bst_tree.cpp.obj: CMakeFiles/TreeLib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\halfy\projects\SPBSTU\Algorithms\LabH\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/TreeLib.dir/bst_tree.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TreeLib.dir/bst_tree.cpp.obj -MF CMakeFiles\TreeLib.dir\bst_tree.cpp.obj.d -o CMakeFiles\TreeLib.dir\bst_tree.cpp.obj -c C:\Users\halfy\projects\SPBSTU\Algorithms\LabH\bst_tree.cpp
+CMakeFiles/TreeLib.dir/bst_tree.c.obj: CMakeFiles/TreeLib.dir/flags.make
+CMakeFiles/TreeLib.dir/bst_tree.c.obj: C:/Users/halfy/projects/SPBSTU/Algorithms/LabH/bst_tree.c
+CMakeFiles/TreeLib.dir/bst_tree.c.obj: CMakeFiles/TreeLib.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\halfy\projects\SPBSTU\Algorithms\LabH\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/TreeLib.dir/bst_tree.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/TreeLib.dir/bst_tree.c.obj -MF CMakeFiles\TreeLib.dir\bst_tree.c.obj.d -o CMakeFiles\TreeLib.dir\bst_tree.c.obj -c C:\Users\halfy\projects\SPBSTU\Algorithms\LabH\bst_tree.c
 
-CMakeFiles/TreeLib.dir/bst_tree.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/TreeLib.dir/bst_tree.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\halfy\projects\SPBSTU\Algorithms\LabH\bst_tree.cpp > CMakeFiles\TreeLib.dir\bst_tree.cpp.i
+CMakeFiles/TreeLib.dir/bst_tree.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/TreeLib.dir/bst_tree.c.i"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\halfy\projects\SPBSTU\Algorithms\LabH\bst_tree.c > CMakeFiles\TreeLib.dir\bst_tree.c.i
 
-CMakeFiles/TreeLib.dir/bst_tree.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TreeLib.dir/bst_tree.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\halfy\projects\SPBSTU\Algorithms\LabH\bst_tree.cpp -o CMakeFiles\TreeLib.dir\bst_tree.cpp.s
+CMakeFiles/TreeLib.dir/bst_tree.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/TreeLib.dir/bst_tree.c.s"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\halfy\projects\SPBSTU\Algorithms\LabH\bst_tree.c -o CMakeFiles\TreeLib.dir\bst_tree.c.s
 
 # Object files for target TreeLib
 TreeLib_OBJECTS = \
-"CMakeFiles/TreeLib.dir/avl_tree.cpp.obj" \
-"CMakeFiles/TreeLib.dir/bst_tree.cpp.obj"
+"CMakeFiles/TreeLib.dir/avl_tree.c.obj" \
+"CMakeFiles/TreeLib.dir/bst_tree.c.obj"
 
 # External object files for target TreeLib
 TreeLib_EXTERNAL_OBJECTS =
 
-libTreeLib.a: CMakeFiles/TreeLib.dir/avl_tree.cpp.obj
-libTreeLib.a: CMakeFiles/TreeLib.dir/bst_tree.cpp.obj
+libTreeLib.a: CMakeFiles/TreeLib.dir/avl_tree.c.obj
+libTreeLib.a: CMakeFiles/TreeLib.dir/bst_tree.c.obj
 libTreeLib.a: CMakeFiles/TreeLib.dir/build.make
 libTreeLib.a: CMakeFiles/TreeLib.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\halfy\projects\SPBSTU\Algorithms\LabH\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX static library libTreeLib.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\halfy\projects\SPBSTU\Algorithms\LabH\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C static library libTreeLib.a"
 	$(CMAKE_COMMAND) -P CMakeFiles\TreeLib.dir\cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\TreeLib.dir\link.txt --verbose=$(VERBOSE)
 

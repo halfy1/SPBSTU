@@ -1,3 +1,0 @@
-ExampleTests 15 0.120206
-TreeTests 17 0.403858
----

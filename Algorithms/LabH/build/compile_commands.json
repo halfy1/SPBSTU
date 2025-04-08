@@ -1,15 +1,15 @@
 [
 {
   "directory": "C:/Users/halfy/projects/SPBSTU/Algorithms/LabH/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\TreeLib.dir\\avl_tree.cpp.obj -c C:\\Users\\halfy\\projects\\SPBSTU\\Algorithms\\LabH\\avl_tree.cpp",
-  "file": "C:/Users/halfy/projects/SPBSTU/Algorithms/LabH/avl_tree.cpp",
-  "output": "CMakeFiles/TreeLib.dir/avl_tree.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe   -g -std=gnu99 -o CMakeFiles\\TreeLib.dir\\avl_tree.c.obj -c C:\\Users\\halfy\\projects\\SPBSTU\\Algorithms\\LabH\\avl_tree.c",
+  "file": "C:/Users/halfy/projects/SPBSTU/Algorithms/LabH/avl_tree.c",
+  "output": "CMakeFiles/TreeLib.dir/avl_tree.c.obj"
 },
 {
   "directory": "C:/Users/halfy/projects/SPBSTU/Algorithms/LabH/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\TreeLib.dir\\bst_tree.cpp.obj -c C:\\Users\\halfy\\projects\\SPBSTU\\Algorithms\\LabH\\bst_tree.cpp",
-  "file": "C:/Users/halfy/projects/SPBSTU/Algorithms/LabH/bst_tree.cpp",
-  "output": "CMakeFiles/TreeLib.dir/bst_tree.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe   -g -std=gnu99 -o CMakeFiles\\TreeLib.dir\\bst_tree.c.obj -c C:\\Users\\halfy\\projects\\SPBSTU\\Algorithms\\LabH\\bst_tree.c",
+  "file": "C:/Users/halfy/projects/SPBSTU/Algorithms/LabH/bst_tree.c",
+  "output": "CMakeFiles/TreeLib.dir/bst_tree.c.obj"
 },
 {
   "directory": "C:/Users/halfy/projects/SPBSTU/Algorithms/LabH/build/googletest/googlemock",
